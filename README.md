@@ -1,6 +1,6 @@
 # Bright Data의 칠레 プロキシ
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/locations/cl) 
+[![Promo](https://github.com/bright-kr/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/locations/cl) 
 
 ## 개요
 정밀한 타기팅, 독보적인 안정성, 빠른 응답 시간을 제공하도록 설계된 Bright Data의 [칠레 プロキシ](https://brightdata.co.kr/locations/cl)로 막힘 없이 매끄러운 スクレイピング을 경험해 보십시오. 칠레에서 웹사이트를 スクレイピング하기 시작하고 다시는 차단되지 마십시오.
@@ -39,7 +39,7 @@
 - **3G/4G/5G 모바일 IP**
 - **24/7 글로벌 지원**
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/locations/cl) 
+[![Promo](https://github.com/bright-kr/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/locations/cl) 
 
 ## Bright Data의 칠레 プロキシ 시작하기
 1. **무료 체험 시작**: 신용카드가 필요하지 않습니다.
